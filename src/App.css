@@ -1,0 +1,49 @@
+.container{
+    text-align: center;
+}
+.btn {
+  text-align: center;
+}
+
+.btn button {
+  font-size: 16px;
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Add Button */
+.btn1 {
+  background-color: #1877f2;
+  color: white;
+}
+
+.btn1:hover {
+  background-color: #155db0;
+  box-shadow: 0px 4px 15px rgba(24, 119, 242, 0.2);
+}
+
+/* Remove Button */
+.btn2 {
+  background-color: #f02849;
+  color: white;
+}
+
+.btn2:hover {
+  background-color: #c0243e;
+  box-shadow: 0px 4px 15px rgba(240, 40, 73, 0.2);
+}
+
+/* Clear All Button */
+.btn3 {
+  background-color: #42b72a;
+  color: white;
+}
+
+.btn3:hover {
+  background-color: #369f22;
+  box-shadow: 0px 4px 15px rgba(66, 183, 42, 0.2);
+}

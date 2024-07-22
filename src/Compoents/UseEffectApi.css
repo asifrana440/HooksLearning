@@ -1,0 +1,54 @@
+/* UseEffectApi.css */
+.heading {
+    text-align: center; /* Center text horizontally */
+  }
+.card {
+    background-color: #fff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    width: 420px;
+  }
+  
+  .card-img-top {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    
+  }
+  
+  .card-body {
+    padding: 20px;
+    
+  }
+  
+  .card-title {
+    font-size: 20px;
+    margin-bottom: 5px;
+
+  }
+  
+  .card-text {
+    
+    font-size: 16px;
+    color: #6c757d; /* Text color for muted text */
+  }
+  
+  .card-stats {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .stat {
+    flex-grow: 1;
+    text-align: center;
+  }
+  
+  .stat-label {
+    font-size: 14px;
+    color: #6c757d;
+  }
+  
+  .stat-value {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  

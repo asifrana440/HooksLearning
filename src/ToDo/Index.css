@@ -1,0 +1,37 @@
+/* Index.css */
+
+/* Set background color for main-div */
+.main-div {
+    background-color: white;
+  }
+  
+  /* Set background color for child-dev */
+  .child-dev {
+    background-color: #4267B2; /* Facebook color */
+    color: white; /* Text color for child-dev */
+  }
+  
+  /* Set color for add-item */
+  .add-item input[type="text"] {
+    color: white; /* Text color for input field */
+  }
+  
+  /* Set color for showItem */
+  .showItem h3 {
+    color: white; /* Text color for showItem heading */
+  }
+  
+  /* Set color for effect04 button */
+  .effect04 {
+    color: white; /* Text color for effect04 button */
+  }
+  
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
